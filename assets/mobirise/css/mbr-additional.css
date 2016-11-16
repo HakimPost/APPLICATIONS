@@ -702,6 +702,12 @@ h6,
 #msg-box8-l .mbr-section-title {
   color: #2969b0;
 }
+#header1-c .mbr-section-lead {
+  color: #3d8eb9;
+}
+#header1-c .mbr-section-title {
+  color: #2969b0;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -777,10 +783,4 @@ h6,
 }
 #contacts1-o STRONG {
   color: #7c7c7c;
-}
-#header1-c .mbr-section-lead {
-  color: #3d8eb9;
-}
-#header1-c .mbr-section-title {
-  color: #2969b0;
 }

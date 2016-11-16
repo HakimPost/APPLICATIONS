@@ -24,7 +24,7 @@
       }
     },
     "publishType": "local",
-    "publishPath": "file:///C:/Users/student%20a12/Desktop/ikbn%20kl",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -104,7 +104,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-89.png",
+              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-73.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -118,7 +118,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IKBN KL</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
         },
         {
           "_tags": [
@@ -143,7 +143,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "assets/images/bg-2000x1125-28.jpg",
+                "image": "assets/images/bg-2000x1125-30.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -157,7 +157,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/bg-2000x1125-31.jpg",
+                "image": "assets/images/bg-2000x1125-30.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -171,7 +171,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/bg-2000x1125-1.jpg",
+                "image": "assets/images/bg-2000x1125-91.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -185,7 +185,7 @@
               },
               {
                 "active": true,
-                "image": "assets/images/bg-2000x1125-18.jpg",
+                "image": "assets/images/bg-2000x1125-77.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -282,7 +282,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-89.png",
+              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-5.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -296,13 +296,22 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IKBN KL</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#3d8eb9"
+            },
+            "H4": {
+              "color": "#2969b0"
+            }
+          },
           "_anchor": "features3-d",
           "_params": {
             "paddingTop": 2,
@@ -328,7 +337,7 @@
           },
           "media1": {
             "image": {
-              "src": "assets/images/multimedia-600x272-87.jpg",
+              "src": "assets/images/multimedia-600x272-4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -344,7 +353,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "assets/images/photography1-600x291-61.jpg",
+              "src": "assets/images/photography1-600x291-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -360,7 +369,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "assets/images/videography-51-600x282-77.jpg",
+              "src": "assets/images/videography-51-600x282-6.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -376,7 +385,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "assets/images/wb-600x337-85.jpg",
+              "src": "assets/images/bgb-600x900-62.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -413,22 +422,21 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#3d8eb9"
-            },
-            "H4": {
-              "color": "#2969b0"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#2969b0"
+            },
+            "P": {
+              "color": "#3d8eb9"
+            }
+          },
           "_anchor": "features3-e",
           "_params": {
             "paddingTop": 2,
@@ -454,7 +462,7 @@
           },
           "media1": {
             "image": {
-              "src": "assets/images/beauty-treraphy-600x223-60.jpg",
+              "src": "assets/images/beauty-treraphy-600x223-69.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -470,7 +478,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "assets/images/sports-therapy-bsc-top-up-600x266-9.jpg",
+              "src": "assets/images/sports-therapy-bsc-top-up-600x266-69.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -486,7 +494,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "assets/images/wb-600x337-78.jpg",
+              "src": "assets/images/bgb-600x900-78.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -502,7 +510,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "assets/images/wb-600x337-2.jpg",
+              "src": "assets/images/bgb-600x900-39.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -539,7 +547,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
           "_styles": {
             "H4": {
               "color": "#2969b0"
@@ -547,13 +561,7 @@
             "P": {
               "color": "#3d8eb9"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
+          },
           "_anchor": "features3-f",
           "_params": {
             "paddingTop": 2,
@@ -579,7 +587,7 @@
           },
           "media1": {
             "image": {
-              "src": "assets/images/furniture-design-600x240-12.jpg",
+              "src": "assets/images/furniture-design-600x240-4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -595,7 +603,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "assets/images/interior-design-600x319-81.png",
+              "src": "assets/images/interior-design-600x319-62.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -611,7 +619,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "assets/images/wb-600x337-12.jpg",
+              "src": "assets/images/bgb-600x900-9.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -627,7 +635,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "assets/images/wb-600x337-37.jpg",
+              "src": "assets/images/bgb-600x900-18.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -664,15 +672,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#2969b0"
-            },
-            "P": {
-              "color": "#3d8eb9"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -751,7 +751,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-89.png",
+              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-35.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -765,13 +765,24 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IKBN KL</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#3d8eb9"
+            }
+          },
           "_anchor": "header2-j",
           "_params": {
             "parallax": true,
@@ -796,7 +807,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "assets/images/pengarah-1400x1358-86.jpg",
+              "src": "assets/images/pengarah-1400x1358-63.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -816,18 +827,7 @@
           },
           "title": "MALAM PERSONAL MUSLIM<br>2016",
           "text": "BANTING , 3 NOVEMBER 2016 – Cawangan Hal Ehwal Pelajar bersama-sama Majlis Perwakilan Pelajar Institut Kemahiran Belia Negara (IKBN) Kuala Langat telah menganjurkan Malam Persona Muslim bersempena dengan Tahun Baharu Hijriah 1438H pada 1 November 2016 yang lalu bertempat di Dewan Ibnu Sina .<br>Program diadakan bagi mengingati dan menghayati peristiwa hijrah Nabi Muhammad S.A.W serta menghayati perjuangan Nabi Muhammad S.A.W dalam menyebarkan Agama Islam dan dapat menanam minat dan cinta kepada Rasulullah .<br>Pembukaan majlis dimulakan dengan persembahan daripada kumpulan nasyid IKBN Kuala Langat iaitu Kumpulan Asy-Syabab . Selain itu juga diadakan pertandingan acara-acara seperti nasyid berkumpulan, nasyid secara solo , sajak dan azan .<br>Majlis dimeriahkan lagi dengan persembahan khas daripada Tuan Hj. Mgt Husain Bin Mgt Jaaffar , Pengarah IKBN Kuala Langat dengan persembahan sajak yang bertajuk Dunia Akhir Zaman.<br>Turut serta dalam persembahan pada malam itu ialah kumpulan nasyid pegawai-pegawai IKBN Kuala Langat..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "text-align": "left",
-              "color": "#2969b0"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#3d8eb9"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
     },
@@ -906,7 +906,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-89.png",
+              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-20.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -920,7 +920,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IKBN KL</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
         },
         {
           "_styles": {
@@ -983,7 +983,51 @@
         }
       ]
     },
-    "HOME.html": {
+    "LATAR.html": {
+      "settings": {
+        "title": "LATAR"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "header1-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-2000x1125-59.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "LATARBELAKANG",
+          "text": "Institut Kemahiran Belia Negara Kuala Langat (IKBNKL) merupakan institut kemahiran ke-20 yang dikendalikan di bawah Kementerian Belia dan Sukan Malaysia (KBS). Pembangunan institut ini dimulakan sejak tahun 2008 dan telah siap pada 9 Februari 2011. IKBNKL terletak kira-kira 3km dari pekan Banting .<br><br>Penubuhan institut ini adalah sejajar dengan Rancangan Malaysia Ke -9 dengan menjadikan ianya IKBN yang ke 4 dibina di Negeri Selangor. Fasa pertama IKBNKL dibangunkan di atas tanah seluas 32 ekar daripada 58.5 ekar meliputi Blok Pentadbiran, Blok Akademik, Kuarters Kakitangan, prasarana seperti Dewan Makan, Asrama Lelaki dan Perempuan, gelanggang futsal, surau dan kawasan riadah. Laluan susur gajah dan wakaf-wakaf disediakan disekitar kawasan institut untuk kemudahan seluruh warga IKBNKL.<br><br>Institut muda ini diterajui oleh seorang Pengarah bersama 35 orang pegawai dan kakitangan bagi mengendalikan lima Jabatan iaitu Jabatan Teknologi Multimedia , Jabatan Teknologi Mekanikal, Jabatan Teknologi Awam dan Jabatan Perkhidmatan Personal dengan tujuh jurusan bagi membolehkan mereka layak memperolehi Sijil Kemahiran Malaysia Tahap 1,2,3 dan DKM yang dikeluarkan oleh Jabatan Pembangunan Kemahiran (JPK).<br><br>Pengambilan pertama telah dibuat pada 4 Julai 2011 dengan jumlah pelajar seramai 63 orang. Bilangan pelajar yang boleh ditampung oleh IKBNKL mampu mencecah sehingga 500 orang.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"IKBN INFO.html\" data-toolbar=\"-mbrBtnMove\">BACK</a> "
+        }
+      ]
+    },
+    "index.html": {
       "settings": {
         "main": true,
         "title": "HOME",
@@ -1063,7 +1107,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-89.png",
+              "src": "assets/images/logo-institut-kemahiran-belia-negara-ikbn-109x128-91.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -1077,7 +1121,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IKBN KL</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"IKBN INFO.html\">IKBN INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"COURSE.html\">COURSE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DETAILS</a></li>"
         },
         {
           "_tags": [
@@ -1119,7 +1163,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "assets/images/ikbn-kl-1400x787-77.jpg",
+              "src": "assets/images/ikbn-kl-1400x787-14.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1139,13 +1183,21 @@
           },
           "title": "WELCOME TO WEBSITE IKBN KUALA LANGAT",
           "text": "Institut Kemahiran Belia Negara Kuala Langat <br>Jalan Sultan Abdul Samad 42700 Banting Selangor<br>Tel : 03-31802128<br>Faks : 03-31801677<br>Email: portalikbnkl@gmail.com<br>Website: http://www.kemahiran.kbs.gov.my.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#7c7c7c"
+            }
+          },
           "_anchor": "contacts1-o",
           "_params": {
             "paddingTop": "1",
@@ -1177,59 +1229,7 @@
           },
           "text1": "<strong>Address</strong><br>Institut Kemahiran Belia Negara Kuala Langat <br>Jalan Sultan Abdul Samad 42700 Banting&nbsp;<br>",
           "text2": "<strong>Contacts</strong><br>Tel : 03-31802128<br>Faks : 03-31801677<br>Email: portalikbnkl@gmail.com<br>Website: http://www.kemahiran.kbs.gov.my<br>",
-          "text3": "<br><br>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#7c7c7c"
-            }
-          }
-        }
-      ]
-    },
-    "LATAR.html": {
-      "settings": {
-        "title": "LATAR"
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-c",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-2000x1125-59.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "LATARBELAKANG",
-          "text": "Institut Kemahiran Belia Negara Kuala Langat (IKBNKL) merupakan institut kemahiran ke-20 yang dikendalikan di bawah Kementerian Belia dan Sukan Malaysia (KBS). Pembangunan institut ini dimulakan sejak tahun 2008 dan telah siap pada 9 Februari 2011. IKBNKL terletak kira-kira 3km dari pekan Banting .<br><br>Penubuhan institut ini adalah sejajar dengan Rancangan Malaysia Ke -9 dengan menjadikan ianya IKBN yang ke 4 dibina di Negeri Selangor. Fasa pertama IKBNKL dibangunkan di atas tanah seluas 32 ekar daripada 58.5 ekar meliputi Blok Pentadbiran, Blok Akademik, Kuarters Kakitangan, prasarana seperti Dewan Makan, Asrama Lelaki dan Perempuan, gelanggang futsal, surau dan kawasan riadah. Laluan susur gajah dan wakaf-wakaf disediakan disekitar kawasan institut untuk kemudahan seluruh warga IKBNKL.<br><br>Institut muda ini diterajui oleh seorang Pengarah bersama 35 orang pegawai dan kakitangan bagi mengendalikan lima Jabatan iaitu Jabatan Teknologi Multimedia , Jabatan Teknologi Mekanikal, Jabatan Teknologi Awam dan Jabatan Perkhidmatan Personal dengan tujuh jurusan bagi membolehkan mereka layak memperolehi Sijil Kemahiran Malaysia Tahap 1,2,3 dan DKM yang dikeluarkan oleh Jabatan Pembangunan Kemahiran (JPK).<br><br>Pengambilan pertama telah dibuat pada 4 Julai 2011 dengan jumlah pelajar seramai 63 orang. Bilangan pelajar yang boleh ditampung oleh IKBNKL mampu mencecah sehingga 500 orang.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"IKBN INFO.html\" data-toolbar=\"-mbrBtnMove\">BACK</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#3d8eb9"
-            },
-            ".mbr-section-title": {
-              "color": "#2969b0"
-            }
-          }
+          "text3": "<br><br>"
         }
       ]
     }
